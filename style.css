@@ -111,7 +111,7 @@ body{
 
 
 .news {
-    width: 100%;
+    width: 1110px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -420,6 +420,7 @@ tracks__folow-inner img{
 
 
 .gallery {
+    width: 1110px;
     position: relative;
     display: grid;
     grid-template-columns: repeat(3,1fr);
@@ -749,7 +750,7 @@ tracks__folow-inner img{
         justify-content: center;
     }
     .first-card {
-        margin-right: 15px;
+        margin-right: 30px;
         margin-bottom: 20px;
     }
     .second-card {
