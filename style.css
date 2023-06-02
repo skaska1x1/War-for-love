@@ -664,16 +664,6 @@ tracks__folow-inner img{
     border-radius: 50%;
     box-shadow: 0px 0px 5px 5px #015736 ;
 }
-.spotify {
-}
-.instagram {
-}
-.youtube {
-}
-.twitter {
-}
-.facebook {
-}
 .copy {
     margin: 0 auto;
     opacity: 0.5;
@@ -685,11 +675,6 @@ tracks__folow-inner img{
     text-align: center;
     margin-bottom: 40px;
 }
-
-
-
-
-
 
 .active{
     display: none;
@@ -726,9 +711,6 @@ tracks__folow-inner img{
 }
 
 
-
-
-
 @media (max-width:1390px) {
     .slider{
        max-width: 1050px;
@@ -748,6 +730,7 @@ tracks__folow-inner img{
     .news{
         width: 90%;
         justify-content: center;
+        gap: 1em;
     }
     .first-card {
         /*margin-right: 30px;*/
